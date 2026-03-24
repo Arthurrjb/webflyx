@@ -1,5 +1,22 @@
-This repository contains a collection of exercises I completed while learning Git through the online platform boot.dev. 
-It serves as a practical space where I explored and practiced fundamental Git concepts such as initializing repositories,
-creating commits, working with branches, merging changes, interacting with remote repositories, and rewriting history using
-commands like rebase and reset. 
-The goal of this project is to build confidence with real Git workflows and version control best practices.
+# Webflix Project
+
+This directory is part of my Linux filesystem training on [Boot.dev](https://www.boot.dev). It simulates the server environment for a fictional media streaming company.
+
+## Purpose
+
+The `webflix` directory is used to practice:
+- **System Administration**: Managing users and groups.
+- **File Permissions**: Using `chmod` and `chown` to secure media assets.
+- **Navigation**: Moving through nested directory structures in a shell.
+
+## Structure
+
+- `/movies`: Contains simulated video data and metadata.
+- `/users`: Management of streaming subscriber profiles.
+- `/scripts`: Automation tools for the streaming service.
+
+## Tools Used
+
+- Bash/Zsh
+- Linux Command Line Interface (CLI)
+- Git
